@@ -16,4 +16,4 @@ atenção especial a segurança de aplicação e automação de entrega.
 **Stack:** TypeScript · React/Next.js · PostgreSQL · Supabase · Cloudflare
 Workers · Electron · Luau · Python
 
-Cursando Sistemas de Informação.
+Cursando Segurança da Informação.
